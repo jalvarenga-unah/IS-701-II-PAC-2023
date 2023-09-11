@@ -1,8 +1,7 @@
 
-
 <div align="center">
 
-  # 17000 - Inteligencia Artificial
+  # 1700 - Inteligencia Artificial
   
   <img aling="right" src = "https://campusvirtual.unah.edu.hn/pluginfile.php/2037745/course/overviewfiles/tarjeta%20IA.png" alt="Portada de la asignatura" width=500/>
 </div>
